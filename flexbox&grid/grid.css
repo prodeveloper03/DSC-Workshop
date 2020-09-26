@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.child1{
+    background: lightcoral;
+}
+.child2{
+    background: lightblue;
+}
+.child3{
+    background: lightgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main{
+     /* display: grid; */
+    /* grid-template-columns:300px 300px; */
+    /* grid-template-rows: 300px 300px; */
+      /* height: 100vh;  */
+}
+/* grid-column-start:1; */
+/* grid-column-end:3; */
+
+/* .child2{
+    grid-row: 1/3;
+} */
