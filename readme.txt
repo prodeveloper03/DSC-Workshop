@@ -1,0 +1,1 @@
+The workshop is being conducted by DSC JIIT 62. By the end of this workshop you will be able to make a portfolio website for yourself.
